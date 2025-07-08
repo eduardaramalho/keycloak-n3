@@ -21,6 +21,7 @@ Este projeto é uma aplicação fullstack com autenticação/autorização usand
   - Exibe lista de itens (`role-get`)
   - Permite criar (`role-post`)
   - Permite deletar (`role-delete`)
+  - Permite editar (`role-put`)
 - Ações protegidas com token JWT
 - Exibição condicional com base nas **roles do usuário logado**
 
